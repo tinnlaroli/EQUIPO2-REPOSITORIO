@@ -6,3 +6,4 @@ David, Daniel, Emmanuel, Uriel
 **FERNANDO**
 **BERNARDO**
 **Elian**
+**OSCAR**
