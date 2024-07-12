@@ -4,5 +4,5 @@ David, Daniel, Emmanuel, Uriel
 
 **MARTIN**
 **FERNANDO**
-
+**BERNARDO**
 **Elian**
